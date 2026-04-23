@@ -14,7 +14,7 @@ The project integrates 8 interrelated datasets encompassing temporal patterns, g
 * **Booking Records:** Over 1.6 million `CinePOS` bookings and ~68,000 `BookNow` online bookings.
 * **Theatre Metadata:** Mapped 150 BookNow theatres to their offline CinePOS counterparts using relation mapping.
 * **Target Variable:** Captured daily audience counts spanning 214,046 total historic visit records (Training Window: *Jan 1, 2023 - Feb 28, 2024*).
-* **Dataset Link:**https://www.kaggle.com/competitions/Cinema_Audience_Forecasting_challenge/data
+* Dataset Link:https://www.kaggle.com/competitions/Cinema_Audience_Forecasting_challenge/data
 
 ---
 
